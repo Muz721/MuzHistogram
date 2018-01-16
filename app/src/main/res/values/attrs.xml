@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MuzHistogram">
+        <attr name="txtSize" format="integer" />
+        <attr name="txtNameInterval" format="integer" />
+        <attr name="txtNumberInterval" format="integer"/>
+        <attr name="histogramMinInterval" format="integer" />
+        <attr name="histogramWidth" format="integer" />
+        <attr name="txtNameColor" format="color" />
+        <attr name="txtNumberColor" format="color" />
+        <attr name="histogramColor" format="color" />
+        <attr name="defaultColor" format="color"/>
+        <attr name="initTextColor" format="boolean"/>
+    </declare-styleable>
+</resources>
